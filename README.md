@@ -1,5 +1,5 @@
 # ConvNet
-ConvNet is a Java library for training Deep Learning models (Neural Networks). It is a porting from JavaScript to Java of the ConvNetJS library : https://github.com/karpathy/convnetjs
+ConvNet is a Java library for training Deep Learning models (Neural Networks). It is a porting from JavaScript to Java of the ConvNetJS library: https://github.com/karpathy/convnetjs
 
 ### Requires:
 - Java 8 (that's all)
